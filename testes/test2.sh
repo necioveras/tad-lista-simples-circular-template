@@ -31,7 +31,7 @@ Tamanho da lista: 1
 Lista vazia
 Lista: 99.9 77.7 66.6 55.5 88.8
 Lista: 99.9 66.6 55.5 88.8
-Lista: 99.9 55.5 88.8"
+Lista: 99.9 55.5 88.8."
 
 
 if [ $? -eq 0 ] ; then
