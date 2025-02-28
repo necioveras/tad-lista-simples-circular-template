@@ -3,8 +3,8 @@ echo
 
 output=$(./a.out < ./testes/input2.txt)
 expected_output="Lista: 10.1 20.2 30.3 40.4 50.5
-Posição do elemento 30.3: 3
-Posição do elemento 60.6: -1
+Elemento 30.3 encontrado na posição 3.
+Elemento 60.6 não encontrado.
 Lista: 10.1 15.5 20.2 30.3 40.4 50.5
 Lista: 10.1 15.5 20.2 25.5 30.3 40.4 50.5
 Lista: 10.1 15.5 20.2 25.5 30.3 35.5 40.4 50.5
@@ -12,21 +12,21 @@ Lista: 10.1 15.5 25.5 30.3 35.5 40.4 50.5
 Lista: 10.1 15.5 25.5 30.3 40.4 50.5
 Lista: 10.1 15.5 30.3 40.4 50.5
 Lista: 10.1 15.5 30.3 40.4
-Posição do elemento 10.1: 1
-Posição do elemento 50.5: -1
+Elemento 10.1 encontrado na posição 1.
+Elemento 50.5 não encontrado.
 Tamanho da lista: 4
 Lista vazia
 Lista: 5.5 10.1 12.2 13.3 15.5
-Posição do elemento 5.5: 1
-Posição do elemento 15.5: 5
-Posição do elemento 10.1: 2
-Posição do elemento 12.2: 3
-Posição do elemento 13.3: 4
+Elemento 5.5 encontrado na posição 1.
+Elemento 15.5 encontrado na posição 5.
+Elemento 10.1 encontrado na posição 2.
+Elemento 12.2 encontrado na posição 3.
+Elemento 13.4 encontrado na posição 4.
 Lista: 5.5 12.2 13.3 15.5
 Lista: 5.5 12.2 15.5
 Lista: 5.5 15.5
 Lista: 15.5
-Posição do elemento 12.2: -1
+Elemento 12.2 não encontrado.
 Tamanho da lista: 1
 Lista vazia
 Lista: 99.9 77.7 66.6 55.5 88.8
