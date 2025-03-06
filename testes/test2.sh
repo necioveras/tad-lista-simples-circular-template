@@ -21,7 +21,7 @@ Elemento 5.5 encontrado na posição 1.
 Elemento 15.5 encontrado na posição 5.
 Elemento 10.1 encontrado na posição 2.
 Elemento 12.2 encontrado na posição 3.
-Elemento 13.4 encontrado na posição 4.
+Elemento 13.3 encontrado na posição 4.
 Lista: 5.5 12.2 13.3 15.5
 Lista: 5.5 12.2 15.5
 Lista: 5.5 15.5
